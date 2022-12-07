@@ -1,0 +1,77 @@
+body
+
+
+{background-image: url(fondo2.jpg);
+background-size: cover;
+    
+    
+}
+
+h1{color: rgb(210, 15, 135);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 50px;
+margin-top: 100x;
+margin-right: 35px;
+margin-left: 500px;
+
+
+}
+.parrafo{
+font-family:Arial, Helvetica, sans-serif;
+font-size: small;
+margin-top: 100px;
+margin-left: 200px;
+margin-right: 200px;
+color:black
+
+}
+
+.cuadro1{
+    background-color: rgb(245,183,177);
+    color: rgb(230, 8, 101);
+    margin-top: 10px;
+    margin-left: 200px;
+    border-color: rgb(188, 30, 15);
+    width: 300px;
+    height: 150px;
+}
+
+.boxes{
+    width: fit-content;
+    display: flex;
+    flex-direction:row;
+    align-items: baseline;
+}
+
+.cuadro2{
+    background-color: rgb(235,222,240);
+    margin-left: 570px;
+
+       
+}
+
+.cuadro3{
+    background-color: rgb(213,245,227);
+    color: darkgreen;
+    margin-left: 200px;
+    border-color: rgb(8, 150, 69);
+    width: 300px;
+    height: 150px;
+     
+}
+
+.boxes{
+    width: fit-content;
+}
+
+
+.encode{
+    background-color: rgb(156, 11, 144);
+    color: rgb(216, 207, 216);
+    margin-left: 920px;
+    border-color: rgb(139, 22, 110);
+    font-weight: bold;
+    
+    
+}
+    
