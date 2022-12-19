@@ -1,0 +1,95 @@
+body
+
+
+{background-image: url(fondo2.jpg);
+background-size: cover;
+    
+    
+}
+
+h1{color: rgb(141, 37, 101);
+font-family:'Courier New', Courier, monospace;
+font-size: 50px;
+text-align: center;
+
+ 
+}
+
+/*margin-top: 100x;
+margin-right: 35px;
+margin-left: 500px; */
+
+
+.parrafo{
+font-family:Arial, Helvetica, sans-serif;
+font-size: 20px;
+margin-top: 100px;
+margin-left: 200px;
+margin-right: 200px;
+color:rgb(79, 79, 81);
+
+
+
+}
+
+.cuadro1{
+    background-color: rgb(245,183,177);
+    color: rgb(230, 8, 101);
+    margin-top: 10px;
+    margin-left: 200px;
+    border-color: rgb(188, 30, 15);
+    width: 300px;
+    height: 150px;
+    border-radius: 50px;
+  
+    
+}
+
+.boxes{
+    width: fit-content;
+    display: flex;
+    flex-direction:row;
+    align-items: baseline;
+}
+
+.cuadro2{
+    background-color: rgb(235,222,240);
+    margin-left: 570px;
+    width: 70px;
+    border-radius: 30px;
+
+       
+}
+
+.cuadro3{
+    background-color: rgb(213,245,227);
+    color: darkgreen;
+    margin-left: 200px;
+    border-color: rgb(8, 150, 69);
+    width: 300px;
+    height: 150px;
+    border-radius: 50px;
+     
+}
+
+.boxes{
+    width: fit-content;
+}
+
+
+.encode{
+    background-color: rgb(156, 11, 144);
+    color: rgb(216, 207, 216);
+    margin-left: 920px;
+    border-color: rgb(139, 22, 110);
+    font-weight: bold;
+    border-radius: 30px;
+    
+}
+
+.decode{
+    background-color: rgb(8, 150, 69);
+    color: rgb(213,245,227);
+    font-weight: bold;
+    border-radius: 30px; /*Es para darle forma redonda al borde*/
+}

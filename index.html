@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Caesar Cipher</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="root">
+
+    <h1 class="title">MENSAJE OCULTO</h1> 
+
+    <div class="parrafo">
+        <p>
+          Te gustaría poder escribir parte de tu historia de vida en un diario, pero tienes miedo de que alguien pueda entrar y leer tus comentarios personales. Te invitamos a que puedas usar de manera gratuita está página para que puedas escribir en código. Puedes Cifrar y Descifrar el mensaje que tu desees. 
+          Puedes apretar incluir el número de deslizamiento que deseas para poder codificar y descodificar tu mensaje.
+          ¡¡Qué diviertas!!
+
+          </p>
+          </div>
+          <br>
+          <br>
+          <div class="boxes">
+            <textarea placeholder = "Escribe aquí el mensaje"  class="cuadro1" id="text1">
+            </textarea>
+            <textarea placeholder = "Tu mensaje se verá aquí"  class="cuadro3" id="text3">
+            </textarea>
+          </div> 
+          <br>
+  <br>
+
+  <div>
+  <input type="number" max="50" min="1" class="cuadro2" id="offset" value="">
+  </div>
+
+
+<input type="button" class="encode" value="CODIFICAR" id="encode">
+
+<input type="button" class="decode" value="DECODIFICAR" id="decode">
+
+
+    <script src="index.js" type="module"></script>
+    </div>
+</body>
+
+</html>
