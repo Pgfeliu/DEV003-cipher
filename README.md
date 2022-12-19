@@ -1,3 +1,13 @@
+# Readme Pame
+
+* Definición del producto:
+La página está pensada para aquellas niñas adolescentes que llevan un diario de vida o agenda y necesiten escribir mensajes ocultos ya que tienen el miedo de que cualquier personal les puede leer su diario. La página da la opción de que ella puedan ingresar el mensaje a codificar y después decodificarlo según ellas la requieran.
+
++ Para la interfaz quise realizar algo con colores pasteles, bien armonico y liviano a la vista. Usando colores rosa, lila y verde. También utilice textarea para que el usuario pudiese escribir el texto que quisiera y no tuviera el problema que el cuadro no mostrará lo escrito, con textarea el usuario puede tomar el cuadro por una esquina y aumentar su tamaño sin ningún problema. 
+
+* Utilicé dos cuadros, uno para que el usuario pueda escribir su mensaje y otro cuadro para que el usuario pueda leer su mensaje codificado o viseversa. Además tiene un botón de offset para escoger el número de desplazamiento que quiere seleccionar para su código. 
+
+
 # Cifrado César
 
 ## Índice
